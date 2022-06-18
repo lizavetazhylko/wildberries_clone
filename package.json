@@ -1,0 +1,29 @@
+{
+  "name": "wildberries_clone",
+  "version": "1.0.0",
+  "description": "wildberries clone",
+  "source": "index.html",
+  "scripts": {
+    "test": "test",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizavetazhylko/MogoHW.git"
+  },
+  "keywords": [
+    "hw"
+  ],
+  "author": "LizavetaZhylko_Hanna-Bog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizavetazhylko/MogoHW/issues"
+  },
+  "homepage": "https://github.com/lizavetazhylko/MogoHW#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1",
+    "sass": "^1.50.1"
+  }
+}
